@@ -22,7 +22,7 @@ ON H.DocCliente = M.DocCliente AND H.ClasCartera = M.ClasCartera
 WHERE H.CodigoPais = 147;
 GO
 '
---prueba
+--prueba bjhbj
 ---------------------------------------------------------------------
 --------------------------------1------------------------------------
 
